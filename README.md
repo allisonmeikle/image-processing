@@ -1,0 +1,2 @@
+# image-processing
+Implemented a full-featured image processing module in Python that supports reading, writing, flipping, cropping, inverting, compressing, and decompressing greyscale images in the PGM format. The project includes support for both standard and compressed image formats, along with a command string processor to automate multi-step image operations. All functions include input validation and are fully documented with type contracts and doctests.
